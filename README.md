@@ -1,5 +1,6 @@
 # EnumScript
 --- This script is used for OSCP exam. ---
+
 To run the file you should get execute permission with the command:
 chmod +x EnumerationScript.sh
 
